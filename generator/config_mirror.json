@@ -15,7 +15,7 @@
   "total_images": 1,
   "seed": 1559462755,
   "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
-  "prompt": "photo-realistic portrait, hotel full-length mirror, golden hour window light, refined mirror selfie, mirror girl aesthetic",
+  "prompt": "photo-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nsymmetrical face, soft smooth skin, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nrealistic facial expression, subtle makeup, soft eyeliner, natural blush, \nperfect lighting balance, professional photography style, \nbokeh background, depth of field, cinematic color grading, \nsoft studio light, rim light on hair, warm skin tone, \nsharp focus, award-winning portrait photo, mirror selfie woman, mirror selfie aesthetic snap girl, mirror selfie aesthetic background, how to make mirror selfie aesthetic, natural skin tone, glossy healthy hair, casual crop top, cinematic teal and orange, soft pink highlight, sensual vibe, elegant posture, tasteful composition",
   "output_dir": "../mirror",
   "category": "mirror"
 }
